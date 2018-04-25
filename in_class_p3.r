@@ -58,3 +58,5 @@ dist_sq <- function(county, center) {
   centers[1, 1] <- new_latitude
   centers[1, 2] <- new_longitude
 }
+
+#I added a comment
